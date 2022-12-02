@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-bs
+  description: Testing repo for backstage
+spec:
+  type: website
+  lifecycle: production
+  owner: joaofeteira
